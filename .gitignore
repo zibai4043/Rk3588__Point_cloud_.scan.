@@ -1,0 +1,14 @@
+secrets.env
+*.key
+*.pem
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.DS_Store
+*.onnx
+*.rknn
+*.db
+.vscode/
+.idea/
+*.swp
