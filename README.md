@@ -6,6 +6,10 @@
 
 [点击查看演示视频](assets/videos/demo.mp4)
 
+## 项目文档
+
+[项目简介 PDF](docs/project-introduction.pdf)
+
 ## 三维模型
 
 - [new_box.3dm](assets/models/new_box.3dm)
