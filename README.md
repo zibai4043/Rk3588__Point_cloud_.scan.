@@ -6,6 +6,11 @@
 
 [点击查看演示视频](assets/videos/demo.mp4)
 
+## 三维模型
+
+- [new_box.3dm](assets/models/new_box.3dm)
+- [顶盖.3dm](assets/models/顶盖.3dm)
+
 ## 功能特性
 
 - ✅ 实时姿态识别和动作计数
